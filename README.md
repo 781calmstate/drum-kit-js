@@ -4,7 +4,7 @@ Drum kit for a real drummer. Show the world your skills and prove that you were 
 Having fun with DOM manipulation.
 
 ### Tip:
-Try to press specified keys on the keyboard. Have fun :)
+Switch your keyboard language to English and try to press specified keys on the keyboard. Have fun :)
 
 
 ## You can see my social and my other projects in the following links:
